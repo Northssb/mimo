@@ -1,0 +1,8 @@
+/* 设置header为flex弹性盒布局 */
+.header-container{
+    /* background-color: #fff; */
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
